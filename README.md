@@ -62,11 +62,6 @@ I'm a **Computer Science Engineering student (Final year)** passionate about bui
 
 ---
 
-### ☕ Support My Projects
-
-[![Buy Me A Coffee](https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png)](https://www.buymeacoffee.com/karthikreddy)
-
----
 
 ### 🐍 GitHub Contribution Snake
 
