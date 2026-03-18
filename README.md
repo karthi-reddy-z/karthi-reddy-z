@@ -1,4 +1,4 @@
-# Hi 👋, I'm Venkata Karthik Reddy Medagam
+# Hi 👋, I'm MedagamVenkata Karthik Reddy 
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=FF007F&center=true&vCenter=true&width=600&lines=Venkata+Karthik+Reddy+Medagam;CSE+Student+;+AI/ML+Researcher+;+Full-Stack+Developer;+CTF+Player" alt="Typing SVG" />
